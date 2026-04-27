@@ -1,0 +1,601 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTK1.al" tvg-name="AL: RTK1" tvg-logo="http://84.22.62.251:8822/LOGO/rtk.png" group-title="ALL",AL: RTK1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/1
+#EXTINF:-1 tvg-id="RTV21.al" tvg-name="AL: RTV 21 HD" tvg-logo="http://84.22.62.251:8822/LOGO/rtv-21-hd.png" group-title="ALL",AL: RTV 21 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/2
+#EXTINF:-1 tvg-id="KTV.al" tvg-name="AL: KTV" tvg-logo="http://84.22.62.251:8822/LOGO/ktv-hd.png" group-title="ALL",AL: KTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/3
+#EXTINF:-1 tvg-id="KlanKosova.al" tvg-name="AL: Klan Kosova" tvg-logo="http://84.22.62.251:8822/LOGO/klan-kosova.png" group-title="ALL",AL: Klan Kosova
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/4
+#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="AL: Alsat M" tvg-logo="http://84.22.62.251:8822/LOGO/alsat-m.png" group-title="ALL",AL: Alsat M
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/5
+#EXTINF:-1 tvg-id="Klan.al" tvg-name="AL: Klan TV HD" tvg-logo="http://84.22.62.251:8822/LOGO/tv-klan.png" group-title="ALL",AL: Klan TV HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/6
+#EXTINF:-1 tvg-id="TOPChannel.al" tvg-name="AL: Top Channel HD" tvg-logo="http://84.22.62.251:8822/LOGO/top-channel.png" group-title="ALL",AL: Top Channel HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/7
+#EXTINF:-1 tvg-id="T7.al" tvg-name="AL: T7 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tv-7.png" group-title="ALL",AL: T7 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/8
+#EXTINF:-1 tvg-id="DTV.al" tvg-name="AL:DTV" tvg-logo="http://84.22.62.251:8822/LOGO/dtv-al.png" group-title="ALL",AL:DTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/464
+#EXTINF:-1 tvg-id="Kanal10.al" tvg-name="AL: Kanal 10" tvg-logo="http://84.22.62.251:8822/LOGO/kanal-10.png" group-title="ALL",AL: Kanal 10
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/10
+#EXTINF:-1 tvg-id="TOPNews.al" tvg-name="AL: Top News" tvg-logo="http://84.22.62.251:8822/LOGO/top-news.png" group-title="ALL",AL: Top News
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/13
+#EXTINF:-1 tvg-id="TVDukagjini.al" tvg-name="AL: TV Dukagjini HD" tvg-logo="http://84.22.62.251:8822/LOGO/dukagjini-tv.png" group-title="ALL",AL: TV Dukagjini HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/11
+#EXTINF:-1 tvg-id="ATV.al" tvg-name="AL: ATV" tvg-logo="http://84.22.62.251:8822/LOGO/atv-al.png" group-title="ALL",AL: ATV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/233
+#EXTINF:-1 tvg-id="TeVe1.al" tvg-name="AL:Tëvë 1" tvg-logo="http://84.22.62.251:8822/LOGO/teve-1.png" group-title="ALL",AL:Tëvë 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/355
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli" tvg-logo="http://84.22.62.251:8822/LOGO/dielli-tv.png" group-title="ALL",AL: TV Dielli
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/9
+#EXTINF:-1 tvg-id="Arta.News.ch" tvg-name="AL: Arta News HD" tvg-logo="http://84.22.62.251:8822/LOGO/arta-hd.png" group-title="ALL",AL: Arta News HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/12
+#EXTINF:-1 tvg-id="KlanNews.al" tvg-name="AL: Klan News" tvg-logo="http://84.22.62.251:8822/LOGO/klan-news-al.png" group-title="ALL",AL: Klan News
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/373
+#EXTINF:-1 tvg-id="NEWS.24.in" tvg-name="AL: News 24" tvg-logo="http://84.22.62.251:8822/LOGO/news24-al.png" group-title="ALL",AL: News 24
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/374
+#EXTINF:-1 tvg-id="EuronewsAlbania.al" tvg-name="AL: EuroNews Albania" tvg-logo="http://84.22.62.251:8822/LOGO/euro-news-albania.png" group-title="ALL",AL: EuroNews Albania
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/184
+#EXTINF:-1 tvg-id="Report TV" tvg-name="AL: ReportTV" tvg-logo="http://84.22.62.251:8822/LOGO/report-tv.png" group-title="ALL",AL: ReportTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/325
+#EXTINF:-1 tvg-id="TVMitrovica.al" tvg-name="AL: TV Mitrovica" tvg-logo="http://84.22.62.251:8822/LOGO/mitrovica-tv.png" group-title="ALL",AL: TV Mitrovica
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/298
+#EXTINF:-1 tvg-id="PeaceTV.al" tvg-name="AL: Peace TV" tvg-logo="http://84.22.62.251:8822/LOGO/peace-tv.png" group-title="ALL",AL: Peace TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/234
+#EXTINF:-1 tvg-id="RTI.al" tvg-name="AL:RTI Islam" tvg-logo="http://84.22.62.251:8822/LOGO/rti-islam.png" group-title="ALL",AL:RTI Islam
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/316
+#EXTINF:-1 tvg-id="TVBesa.al" tvg-name="AL:Besa Tv" tvg-logo="http://84.22.62.251:8822/LOGO/besa-tv.png" group-title="ALL",AL:Besa Tv
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/438
+#EXTINF:-1 tvg-id="3Plus.al" tvg-name="AL: 3 Plus" tvg-logo="http://84.22.62.251:8822/LOGO/3-plus.png" group-title="ALL",AL: 3 Plus
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/14
+#EXTINF:-1 tvg-id="Vizion+.al" tvg-name="AL: Vizion Plus" tvg-logo="http://84.22.62.251:8822/LOGO/vision-plus-hd.png" group-title="ALL",AL: Vizion Plus
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/50
+#EXTINF:-1 tvg-id="KanalDDrama.al" tvg-name="AL: KanalD Drama" tvg-logo="http://84.22.62.251:8822/LOGO/kanal-d-drama.png" group-title="ALL",AL: KanalD Drama
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/202
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="AL: Klan Plus HD" tvg-logo="http://84.22.62.251:8822/LOGO/klan-plus.png" group-title="ALL",AL: Klan Plus HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/79
+#EXTINF:-1 tvg-id="TringTring.al" tvg-name="AL: Tring Tring" tvg-logo="http://84.22.62.251:8822/LOGO/tring-tring.png" group-title="ALL",AL: Tring Tring
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/15
+#EXTINF:-1 tvg-id="TringKids.al" tvg-name="AL: Tring Kids" tvg-logo="http://84.22.62.251:8822/LOGO/tring-kids.png" group-title="ALL",AL: Tring Kids
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/16
+#EXTINF:-1 tvg-id="TIPTV.al" tvg-name="AL:Tring TIP TV" tvg-logo="http://84.22.62.251:8822/LOGO/tip-tv.png" group-title="ALL",AL:Tring TIP TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/437
+#EXTINF:-1 tvg-id="Sofia.al" tvg-name="AL: Sofia" tvg-logo="http://84.22.62.251:8822/LOGO/digi-sofia.png" group-title="ALL",AL: Sofia
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/17
+#EXTINF:-1 tvg-id="BangBang.al" tvg-name="AL: Bang Bang" tvg-logo="http://84.22.62.251:8822/LOGO/bang-bang.png" group-title="ALL",AL: Bang Bang
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/18
+#EXTINF:-1 tvg-id="Cufo.al" tvg-name="AL: Cufo" tvg-logo="http://84.22.62.251:8822/LOGO/cufo-tv.png" group-title="ALL",AL: Cufo
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/19
+#EXTINF:-1 tvg-id="BabyTV.ba" tvg-name="AL: Baby TV" tvg-logo="http://84.22.62.251:8822/LOGO/baby-tv.png" group-title="ALL",AL: Baby TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/20
+#EXTINF:-1 tvg-id="PrinceKids.al" tvg-name="AL: Prince Kids" tvg-logo="http://84.22.62.251:8822/LOGO/prince-kids.png" group-title="ALL",AL: Prince Kids
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/21
+#EXTINF:-1 tvg-id="Tao.Tao.al" tvg-name="AL:TaoTao" tvg-logo="http://84.22.62.251:8822/LOGO/tao-tao.png" group-title="ALL",AL:TaoTao
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/461
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Kids 1" tvg-logo="http://84.22.62.251:8822/LOGO/art-kids-1.png" group-title="ALL",AL: Art Kids 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/178
+#EXTINF:-1 tvg-id="" tvg-name="AL:Pro 1" tvg-logo="http://iptv3.kbc.al/logo2/pro1.png" group-title="ALL",AL:Pro 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/660
+#EXTINF:-1 tvg-id="EXPShkence.al" tvg-name="AL: EXP Shkence" tvg-logo="http://84.22.62.251:8822/LOGO/explorer-shkence.png" group-title="ALL",AL: EXP Shkence
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/22
+#EXTINF:-1 tvg-id="Explorer Natyra" tvg-name="AL: EXP Natyra" tvg-logo="http://84.22.62.251:8822/LOGO/explorer-natyra.png" group-title="ALL",AL: EXP Natyra
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/23
+#EXTINF:-1 tvg-id="EXPHistori.al" tvg-name="AL: EXP Histori" tvg-logo="http://84.22.62.251:8822/LOGO/explorer-histori.png" group-title="ALL",AL: EXP Histori
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/24
+#EXTINF:-1 tvg-id="Art Doku 1" tvg-name="AL: ART Doku 1" tvg-logo="http://84.22.62.251:8822/LOGO/art-doku-1.png" group-title="ALL",AL: ART Doku 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/36
+#EXTINF:-1 tvg-id="Art Doku 2" tvg-name="AL: ART Doku 2" tvg-logo="http://84.22.62.251:8822/LOGO/art-doku-2.png" group-title="ALL",AL: ART Doku 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/37
+#EXTINF:-1 tvg-id="" tvg-name="AL:ID Discovery" tvg-logo="http://84.22.62.251:8822/LOGO/id-discovery.png" group-title="ALL",AL:ID Discovery
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/442
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="AL: Film Aksion" tvg-logo="http://84.22.62.251:8822/LOGO/film-aksion.png" group-title="ALL",AL: Film Aksion
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/25
+#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="AL: Film Hits" tvg-logo="http://84.22.62.251:8822/LOGO/film-hits.png" group-title="ALL",AL: Film Hits
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/26
+#EXTINF:-1 tvg-id="FilmAutor.al" tvg-name="AL: Film Autor" tvg-logo="http://84.22.62.251:8822/LOGO/film-autor.png" group-title="ALL",AL: Film Autor
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/27
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="AL: Film Thriller" tvg-logo="http://84.22.62.251:8822/LOGO/film-thriller.png" group-title="ALL",AL: Film Thriller
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/28
+#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="AL: Film Komedi" tvg-logo="http://84.22.62.251:8822/LOGO/film-komedi.png" group-title="ALL",AL: Film Komedi
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/29
+#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="AL: Film Drame" tvg-logo="http://84.22.62.251:8822/LOGO/film-drame.png" group-title="ALL",AL: Film Drame
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/30
+#EXTINF:-1 tvg-id="Max.HD.al" tvg-name="AL: Film MAX HD" tvg-logo="http://84.22.62.251:8822/LOGO/max-hd.png" group-title="ALL",AL: Film MAX HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/31
+#EXTINF:-1 tvg-id="Gold.HD.al" tvg-name="AL: Film Gold HD" tvg-logo="http://84.22.62.251:8822/LOGO/gold-hd.png" group-title="ALL",AL: Film Gold HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/32
+#EXTINF:-1 tvg-id="EuroFilm.al" tvg-name="AL: EuroFilm" tvg-logo="http://84.22.62.251:8822/LOGO/euro-film.png" group-title="ALL",AL: EuroFilm
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/207
+#EXTINF:-1 tvg-id="Family.al" tvg-name="AL: Family" tvg-logo="http://84.22.62.251:8822/LOGO/family-hd.png" group-title="ALL",AL: Family
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/208
+#EXTINF:-1 tvg-id="Art Kino 1" tvg-name="AL: ART Kino 1" tvg-logo="http://84.22.62.251:8822/LOGO/art-kino-1.png" group-title="ALL",AL: ART Kino 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/33
+#EXTINF:-1 tvg-id="Art Kino 2" tvg-name="AL: ART Kino 2" tvg-logo="http://84.22.62.251:8822/LOGO/art-kino-2.png" group-title="ALL",AL: ART Kino 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/34
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Kino 3" tvg-logo="http://84.22.62.251:8822/LOGO/art-kino-3.png" group-title="ALL",AL: ART Kino 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/35
+#EXTINF:-1 tvg-id="Stinet.al" tvg-name="AL: Stinët" tvg-logo="http://84.22.62.251:8822/LOGO/stinet.png" group-title="ALL",AL: Stinët
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/209
+#EXTINF:-1 tvg-id="PrimeTV.al" tvg-name="AL: Prime" tvg-logo="http://84.22.62.251:8822/LOGO/prime.png" group-title="ALL",AL: Prime
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/51
+#EXTINF:-1 tvg-id="Episode.al" tvg-name="AL: Episode" tvg-logo="http://84.22.62.251:8822/LOGO/episode.png" group-title="ALL",AL: Episode
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/52
+#EXTINF:-1 tvg-id="BeatTV.al" tvg-name="AL: BeatTV" tvg-logo="http://84.22.62.251:8822/LOGO/beat-tv.png" group-title="ALL",AL: BeatTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/53
+#EXTINF:-1 tvg-id="Gurmania.al" tvg-name="AL: Gurmania" tvg-logo="http://84.22.62.251:8822/LOGO/guromania.png" group-title="ALL",AL: Gurmania
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/80
+#EXTINF:-1 tvg-id="TringFantasy.al" tvg-name="AL: Tring Fantasy" tvg-logo="http://84.22.62.251:8822/LOGO/tring-fantasy.png" group-title="ALL",AL: Tring Fantasy
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/38
+#EXTINF:-1 tvg-id="Tring.Shqip.al" tvg-name="AL: Tring Shqip" tvg-logo="http://84.22.62.251:8822/LOGO/tring-shqip.png" group-title="ALL",AL: Tring Shqip
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/368
+#EXTINF:-1 tvg-id="TringAction.al" tvg-name="AL: Tring Action" tvg-logo="http://84.22.62.251:8822/LOGO/tring-action.png" group-title="ALL",AL: Tring Action
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/39
+#EXTINF:-1 tvg-id="TringSuper.al" tvg-name="AL: Tring Super" tvg-logo="http://84.22.62.251:8822/LOGO/tring-super.png" group-title="ALL",AL: Tring Super
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/40
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="AL: Tring Komedi" tvg-logo="http://84.22.62.251:8822/LOGO/teve-comedy.png" group-title="ALL",AL: Tring Komedi
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/347
+#EXTINF:-1 tvg-id="Tring.Classics.al" tvg-name="AL: Tring Classic" tvg-logo="http://84.22.62.251:8822/LOGO/tring-classic.png" group-title="ALL",AL: Tring Classic
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/367
+#EXTINF:-1 tvg-id="Tring.Collection.al" tvg-name="AL:Tring Collection" tvg-logo="http://84.22.62.251:8822/LOGO/tring-collection.png" group-title="ALL",AL:Tring Collection
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/441
+#EXTINF:-1 tvg-id="TringPlanet.al" tvg-name="AL: Tring Planet" tvg-logo="http://84.22.62.251:8822/LOGO/tring-planet.png" group-title="ALL",AL: Tring Planet
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/42
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Smile" tvg-logo="http://84.22.62.251:8822/LOGO/tring-smile.png" group-title="ALL",AL: Tring Smile
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/43
+#EXTINF:-1 tvg-id="TringLife.al" tvg-name="AL: Tring Life" tvg-logo="http://84.22.62.251:8822/LOGO/tring-life.png" group-title="ALL",AL: Tring Life
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/44
+#EXTINF:-1 tvg-id="TringHistory.al" tvg-name="AL: Tring History" tvg-logo="http://84.22.62.251:8822/LOGO/tring-history.png" group-title="ALL",AL: Tring History
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/45
+#EXTINF:-1 tvg-id="TringWorld.al" tvg-name="AL: Tring World" tvg-logo="http://84.22.62.251:8822/LOGO/tring-world.png" group-title="ALL",AL: Tring World
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/46
+#EXTINF:-1 tvg-id="TringSeries.al" tvg-name="AL: Tring Series HD" tvg-logo="http://84.22.62.251:8822/LOGO/tring-series.png" group-title="ALL",AL: Tring Series HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/48
+#EXTINF:-1 tvg-id="Living.al" tvg-name="AL: Living" tvg-logo="http://84.22.62.251:8822/LOGO/living-hd.png" group-title="ALL",AL: Living
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/49
+#EXTINF:-1 tvg-id="" tvg-name="AL: DigiGold Film 1" tvg-logo="http://84.22.62.251:8822/LOGO/digi-gold-1.png" group-title="ALL",AL: DigiGold Film 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/370
+#EXTINF:-1 tvg-id="" tvg-name="AL: DigiGold Film 2" tvg-logo="http://84.22.62.251:8822/LOGO/digi-gold-2.png" group-title="ALL",AL: DigiGold Film 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/371
+#EXTINF:-1 tvg-id="" tvg-name="AL: DigiGold Film 3" tvg-logo="http://84.22.62.251:8822/LOGO/digi-gold-3.png" group-title="ALL",AL: DigiGold Film 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/372
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extrem Gold 4" tvg-logo="http://84.22.62.251:8822/LOGO/extremgold-4.png" group-title="ALL",AL: Extrem Gold 4
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/376
+#EXTINF:-1 tvg-id="Kanal.7.HD.lv" tvg-name="AL: 7HD" tvg-logo="http://84.22.62.251:8822/LOGO/7-hd-al.png" group-title="ALL",AL: 7HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/185
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 1" tvg-logo="http://84.22.62.251:8822/LOGO/cinema-1-al.png" group-title="ALL",AL: Cinema 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/194
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cinema 2" tvg-logo="http://84.22.62.251:8822/LOGO/cinema-2-al.png" group-title="ALL",AL: Cinema 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/195
+#EXTINF:-1 tvg-id="Premiere1.al" tvg-name="AL: Premiere 1" tvg-logo="http://84.22.62.251:8822/LOGO/premier-1-al.png" group-title="ALL",AL: Premiere 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/174
+#EXTINF:-1 tvg-id="Premiere2.al" tvg-name="AL: Premiere 2" tvg-logo="http://84.22.62.251:8822/LOGO/premier-2-al.png" group-title="ALL",AL: Premiere 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/175
+#EXTINF:-1 tvg-id="Premiere3.al" tvg-name="AL: Premiere 3" tvg-logo="http://84.22.62.251:8822/LOGO/premier-3-al.png" group-title="ALL",AL: Premiere 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/176
+#EXTINF:-1 tvg-id="Premiere4.al" tvg-name="AL: Premiere 4" tvg-logo="http://84.22.62.251:8822/LOGO/premier-4-al.png" group-title="ALL",AL: Premiere 4
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/177
+#EXTINF:-1 tvg-id="" tvg-name="AL:Teve Shqip" tvg-logo="http://84.22.62.251:8822/LOGO/teve-shqip.png" group-title="ALL",AL:Teve Shqip
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/664
+#EXTINF:-1 tvg-id="" tvg-name="AL:Teve Novela" tvg-logo="http://84.22.62.251:8822/LOGO/teve-novela.png" group-title="ALL",AL:Teve Novela
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/665
+#EXTINF:-1 tvg-id="" tvg-name="AL:Teve Drame" tvg-logo="http://84.22.62.251:8822/LOGO/teve-drame.png" group-title="ALL",AL:Teve Drame
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/666
+#EXTINF:-1 tvg-id="" tvg-name="AL:Teve Fantazi" tvg-logo="http://84.22.62.251:8822/LOGO/teve-fantasy.png" group-title="ALL",AL:Teve Fantazi
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/667
+#EXTINF:-1 tvg-id="" tvg-name="AL:Teve Aksion" tvg-logo="http://84.22.62.251:8822/LOGO/teve-aksion.png" group-title="ALL",AL:Teve Aksion
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/668
+#EXTINF:-1 tvg-id="" tvg-name="AL:Teve Kids 1" tvg-logo="http://84.22.62.251:8822/LOGO/teve-kids-1.png" group-title="ALL",AL:Teve Kids 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/669
+#EXTINF:-1 tvg-id="" tvg-name="AL:Teve Kids 2" tvg-logo="http://84.22.62.251:8822/LOGO/teve-kids-2.png" group-title="ALL",AL:Teve Kids 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/670
+#EXTINF:-1 tvg-id="" tvg-name="AL:TEVE Doku 1" tvg-logo="http://84.22.62.251:8822/LOGO/teve-doku-1.png" group-title="ALL",AL:TEVE Doku 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/671
+#EXTINF:-1 tvg-id="" tvg-name="AL:TEVE DOKU 2" tvg-logo="http://84.22.62.251:8822/LOGO/teve-doku-2.png" group-title="ALL",AL:TEVE DOKU 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/672
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Planet" tvg-logo="http://84.22.62.251:8822/LOGO/sky-planet-al.png" group-title="ALL",AL: Sky Planet
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/55
+#EXTINF:-1 tvg-id="Galaxy.TV.ng" tvg-name="AL: Galaxy HD" tvg-logo="http://84.22.62.251:8822/LOGO/galaxy-hd.png" group-title="ALL",AL: Galaxy HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/56
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky MAX" tvg-logo="http://84.22.62.251:8822/LOGO/sky-max-al.png" group-title="ALL",AL: Sky MAX
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/57
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion" tvg-logo="http://84.22.62.251:8822/LOGO/sky-aksion-al.png" group-title="ALL",AL: Sky Aksion
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/58
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi" tvg-logo="http://84.22.62.251:8822/LOGO/sky-comedy-al.png" group-title="ALL",AL: Sky Komedi
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/60
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Shkenca" tvg-logo="http://84.22.62.251:8822/LOGO/sky-shkenca-al.png" group-title="ALL",AL: Sky Shkenca
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/61
+#EXTINF:-1 tvg-id="Digi Drame" tvg-name="AL: Sky Drame" tvg-logo="http://84.22.62.251:8822/LOGO/sky-drame-al.png" group-title="ALL",AL: Sky Drame
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/62
+#EXTINF:-1 tvg-id="" tvg-name="AL:Sky Shqip" tvg-logo="http://84.22.62.251:8822/LOGO/sky-shqip-al.png" group-title="ALL",AL:Sky Shqip
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/457
+#EXTINF:-1 tvg-id="" tvg-name="AL:Sky Novela" tvg-logo="http://84.22.62.251:8822/LOGO/sky-novela-al.png" group-title="ALL",AL:Sky Novela
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/458
+#EXTINF:-1 tvg-id="" tvg-name="AL: Teve Novela" tvg-logo="http://84.22.62.251:8822/LOGO/teve-novela.png" group-title="ALL",AL: Teve Novela
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/479
+#EXTINF:-1 tvg-id="21Popullore.al" tvg-name="Al: 21 Popullore" tvg-logo="http://84.22.62.251:8822/LOGO/21-popullore.png" group-title="ALL",Al: 21 Popullore
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/318
+#EXTINF:-1 tvg-id="ZicoTV.al" tvg-name="AL: ZicoTV" tvg-logo="http://84.22.62.251:8822/LOGO/zico-tv.png" group-title="ALL",AL: ZicoTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/64
+#EXTINF:-1 tvg-id="On-TV" tvg-name="AL: ON TV" tvg-logo="http://84.22.62.251:8822/LOGO/on-tv.png" group-title="ALL",AL: ON TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/65
+#EXTINF:-1 tvg-id="First.Channel.al" tvg-name="AL: FirstTV" tvg-logo="http://84.22.62.251:8822/LOGO/first-channel.png" group-title="ALL",AL: FirstTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/66
+#EXTINF:-1 tvg-id="BBF.al" tvg-name="AL: BBF " tvg-logo="http://84.22.62.251:8822/LOGO/bbf.png" group-title="ALL",AL: BBF 
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/67
+#EXTINF:-1 tvg-id="Elrodi.al" tvg-name="AL: Elrodi" tvg-logo="http://84.22.62.251:8822/LOGO/elrodi-tv.png" group-title="ALL",AL: Elrodi
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/68
+#EXTINF:-1 tvg-id="Folk+.al" tvg-name="AL: Folk +" tvg-logo="http://84.22.62.251:8822/LOGO/folk-plus.png" group-title="ALL",AL: Folk +
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/69
+#EXTINF:-1 tvg-id="" tvg-name="AL:OpojaTV" tvg-logo="http://84.22.62.251:8822/LOGO/opoja-tv.png" group-title="ALL",AL:OpojaTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/436
+#EXTINF:-1 tvg-id="" tvg-name="AL:AlbSe" tvg-logo="http://84.22.62.251:8822/LOGO/albse.png" group-title="ALL",AL:AlbSe
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/440
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Kosova" tvg-logo="http://84.22.62.251:8822/LOGO/mtv-kosova.png" group-title="ALL",MTV Kosova
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/71
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-name="AL: Kanali 7" tvg-logo="http://84.22.62.251:8822/LOGO/kanali-7.png" group-title="ALL",AL: Kanali 7
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/63
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: AmolTV" tvg-logo="http://84.22.62.251:8822/LOGO/amol.png" group-title="ALL",AL: AmolTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/72
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tv D" tvg-logo="http://84.22.62.251:8822/LOGO/dasma-tv.png" group-title="ALL",AL: Tv D
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/73
+#EXTINF:-1 tvg-id="TVLlapi.al" tvg-name="AL: TV LLapi" tvg-logo="http://84.22.62.251:8822/LOGO/llapi-tv.png" group-title="ALL",AL: TV LLapi
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/390
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB Qifteli" tvg-logo="http://84.22.62.251:8822/LOGO/alb-qifteli.png" group-title="ALL",AL: ALB Qifteli
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/77
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="AL:Tëvë Novela" tvg-logo="http://84.22.62.251:8822/LOGO/teve-novela.png" group-title="ALL",AL:Tëvë Novela
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/275
+#EXTINF:-1 tvg-id="TVTema.al" tvg-name="AL: TV Tema" tvg-logo="http://84.22.62.251:8822/LOGO/tema-tv.png" group-title="ALL",AL: TV Tema
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/74
+#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-name="AL:RTSH Muzik" tvg-logo="http://84.22.62.251:8822/LOGO/rtsh-muzike.png" group-title="ALL",AL:RTSH Muzik
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/301
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-name="AL: RTSH 24" tvg-logo="http://84.22.62.251:8822/LOGO/rtsh-24.png" group-title="ALL",AL: RTSH 24
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/302
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-name="AL: RTSH 3" tvg-logo="http://84.22.62.251:8822/LOGO/rtsh-3.png" group-title="ALL",AL: RTSH 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/299
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="AL: RTSH Shqip" tvg-logo="http://84.22.62.251:8822/LOGO/rtsh-shqip.png" group-title="ALL",AL: RTSH Shqip
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/193
+#EXTINF:-1 tvg-id="RTK3.al" tvg-name="AL: RTK3 HD" tvg-logo="http://84.22.62.251:8822/LOGO/rtk-3.png" group-title="ALL",AL: RTK3 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/75
+#EXTINF:-1 tvg-id="RTK4.al" tvg-name="AL: RTK4" tvg-logo="http://84.22.62.251:8822/LOGO/rtk-4.png" group-title="ALL",AL: RTK4
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/76
+#EXTINF:-1 tvg-id="" tvg-name="AL: Gjurmë Shqipetare" tvg-logo="http://84.22.62.251:8822/LOGO/gjurme-shqipetare.png" group-title="ALL",AL: Gjurmë Shqipetare
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/290
+#EXTINF:-1 tvg-id="ALBUKTV.al" tvg-name="AL: ALB UK" tvg-logo="http://84.22.62.251:8822/LOGO/alb-uk.png" group-title="ALL",AL: ALB UK
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/78
+#EXTINF:-1 tvg-id="SuperSport1.al" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://84.22.62.251:8822/LOGO/supersport-1.png" group-title="ALL",AL: Super Sport 1 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/81
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://84.22.62.251:8822/LOGO/supersport-2.png" group-title="ALL",AL: Super Sport 2 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/82
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://84.22.62.251:8822/LOGO/supersport-3.png" group-title="ALL",AL: Super Sport 3 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/83
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://84.22.62.251:8822/LOGO/supersport-4.png" group-title="ALL",AL: Super Sport 4 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/84
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://84.22.62.251:8822/LOGO/supersport-5.png" group-title="ALL",AL: Super Sport 5 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/326
+#EXTINF:-1 tvg-id="SuperSport6.al" tvg-name="AL: Super Sport 6 HD" tvg-logo="http://84.22.62.251:8822/LOGO/supersport-6.png" group-title="ALL",AL: Super Sport 6 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/327
+#EXTINF:-1 tvg-id="SuperSport7.al" tvg-name="AL: Super Sport 7 HD" tvg-logo="http://84.22.62.251:8822/LOGO/supersport-7.png" group-title="ALL",AL: Super Sport 7 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/328
+#EXTINF:-1 tvg-id="KSport 1" tvg-name="AL: Tring Sport 1 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tringsport1.png" group-title="ALL",AL: Tring Sport 1 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/258
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tringsport2.png" group-title="ALL",AL: Tring Sport 2 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/329
+#EXTINF:-1 tvg-id="KSport 3" tvg-name="AL: Tring Sport 3 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tringsport3.png" group-title="ALL",AL: Tring Sport 3 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/259
+#EXTINF:-1 tvg-id="IPKOPromo.al" tvg-name="AL:Tring Sport 4 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tringsport4.png" group-title="ALL",AL:Tring Sport 4 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/742
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Sport 5 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tringsport5.png" group-title="ALL",AL:Tring Sport 5 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/743
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Sport 6 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tringsport6.png" group-title="ALL",AL:Tring Sport 6 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/744
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Sport 7 HD" tvg-logo="" group-title="ALL",AL:Tring Sport 7 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/741
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="AL: ArtSport 1 HD" tvg-logo="http://84.22.62.251:8822/LOGO/art-sport-1.png" group-title="ALL",AL: ArtSport 1 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/93
+#EXTINF:-1 tvg-id="Art Sport 2" tvg-name="AL: ArtSport 2 HD" tvg-logo="http://84.22.62.251:8822/LOGO/art-sport-2.png" group-title="ALL",AL: ArtSport 2 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/94
+#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="AL: Artsport 3 HD" tvg-logo="http://84.22.62.251:8822/LOGO/art-sport-3.png" group-title="ALL",AL: Artsport 3 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/95
+#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="AL: Artsport 4 HD" tvg-logo="http://84.22.62.251:8822/LOGO/art-sport-4.png" group-title="ALL",AL: Artsport 4 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/322
+#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="AL:Artsport 5 HD" tvg-logo="http://84.22.62.251:8822/LOGO/art-sport-5.png" group-title="ALL",AL:Artsport 5 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/323
+#EXTINF:-1 tvg-id="" tvg-name="AL:ArtSport 6 HD" tvg-logo="" group-title="ALL",AL:ArtSport 6 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/726
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL:Tring Sport News" tvg-logo="http://84.22.62.251:8822/LOGO/tringsportnews.png" group-title="ALL",AL:Tring Sport News
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/600
+#EXTINF:-1 tvg-id="K-Sport.1.al" tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="http://84.22.62.251:8822/LOGO/kujtesa-sport-1.png" group-title="ALL",AL: Kujtesa Sport 1 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/90
+#EXTINF:-1 tvg-id="K-Sport.2.al" tvg-name="AL: Kujtesa Sport 2 HD" tvg-logo="http://84.22.62.251:8822/LOGO/kujtesa-sport-2.png" group-title="ALL",AL: Kujtesa Sport 2 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/91
+#EXTINF:-1 tvg-id="K-Sport.3.al" tvg-name="AL: Kujtesa Sport 3 HD" tvg-logo="http://84.22.62.251:8822/LOGO/kujtesa-sport-3.png" group-title="ALL",AL: Kujtesa Sport 3 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/92
+#EXTINF:-1 tvg-id="K-Sport.4.al" tvg-name="AL: Kujtesa Sport 4 HD" tvg-logo="http://84.22.62.251:8822/LOGO/kujtesa-sport-4.png" group-title="ALL",AL: Kujtesa Sport 4 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/97
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DE: DAZN 1 HD" tvg-logo="http://84.22.62.251:8822/LOGO/dazn1.png" group-title="ALL",DE: DAZN 1 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/100
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DE: DAZN 2 HD" tvg-logo="http://84.22.62.251:8822/LOGO/dazn2.png" group-title="ALL",DE: DAZN 2 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/101
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-name="TR:TIVIBU Sport 1" tvg-logo="http://84.22.62.251:8822/LOGO/tivibu-spor-1.png" group-title="ALL",TR:TIVIBU Sport 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/642
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-name="TR:TIVIBU Sport 2" tvg-logo="http://84.22.62.251:8822/LOGO/tivibu-spor-2.png" group-title="ALL",TR:TIVIBU Sport 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/643
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="FR:Bein Sport 1" tvg-logo="http://84.22.62.251:8822/LOGO/bein-sports-1-fr.png" group-title="ALL",FR:Bein Sport 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/610
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR:Bein Sport 2 " tvg-logo="http://84.22.62.251:8822/LOGO/bein-sports-2-fr.png" group-title="ALL",FR:Bein Sport 2 
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/611
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="FR:Bein Sport 3" tvg-logo="http://84.22.62.251:8822/LOGO/bein-sports-3-fr.png" group-title="ALL",FR:Bein Sport 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/612
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsports4.png" group-title="ALL",AL JAZEERA
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/613
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1" tvg-logo="http://84.22.62.251:8822/LOGO/euro-sport-1.png" group-title="ALL",Eurosport 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/98
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2" tvg-logo="http://84.22.62.251:8822/LOGO/euro-sport-2.png" group-title="ALL",Eurosport 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/99
+#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="DE: Sky Sport Bundesliga 1" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-1.png" group-title="ALL",DE: Sky Sport Bundesliga 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/128
+#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="DE: Sky Sport Bundesliga 2" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-2.png" group-title="ALL",DE: Sky Sport Bundesliga 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/129
+#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="DE: Sky Sport Bundesliga 3" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-3.png" group-title="ALL",DE: Sky Sport Bundesliga 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/130
+#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="DE: Sky Sport Bundesliga 4" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-4.png" group-title="ALL",DE: Sky Sport Bundesliga 4
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/131
+#EXTINF:-1 tvg-id="SkySportBundesliga5.de" tvg-name="DE: Sky Sport Bundesliga 5" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-5.png" group-title="ALL",DE: Sky Sport Bundesliga 5
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/132
+#EXTINF:-1 tvg-id="SkySportBundesliga6.de" tvg-name="DE: Sky Sport Bundesliga 6" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-6.png" group-title="ALL",DE: Sky Sport Bundesliga 6
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/133
+#EXTINF:-1 tvg-id="SkySportBundesliga7.de" tvg-name="DE: Sky Sport Bundesliga 7" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-7.png" group-title="ALL",DE: Sky Sport Bundesliga 7
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/134
+#EXTINF:-1 tvg-id="SkySportBundesliga8.de" tvg-name="DE: Sky Sport Bundesliga 8" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-8.png" group-title="ALL",DE: Sky Sport Bundesliga 8
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/135
+#EXTINF:-1 tvg-id="SkySportBundesliga9.de" tvg-name="DE: Sky Sport Bundesliga 9" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-9.png" group-title="ALL",DE: Sky Sport Bundesliga 9
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/136
+#EXTINF:-1 tvg-id="SkySportBundesliga10.de" tvg-name="DE: Sky Sport Bundesliga 10" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-bundesliga-10.png" group-title="ALL",DE: Sky Sport Bundesliga 10
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/137
+#EXTINF:-1 tvg-id="SkySportAustria1.de" tvg-name="DE: Sky Sport Austria" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-austria.png" group-title="ALL",DE: Sky Sport Austria
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/127
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE: Sky Sport 1 " tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-1.png" group-title="ALL",DE: Sky Sport 1 
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/121
+#EXTINF:-1 tvg-id="Sky.Sport.2.de" tvg-name="DE: Sky Sport 2" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-2.png" group-title="ALL",DE: Sky Sport 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/122
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE: Sky Sport 3" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-3.png" group-title="ALL",DE: Sky Sport 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/123
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="DE: Sky Sport 4" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-4.png" group-title="ALL",DE: Sky Sport 4
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/124
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE: Sky Sport 5" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-5.png" group-title="ALL",DE: Sky Sport 5
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/125
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="DE: Sky Sport 6" tvg-logo="http://84.22.62.251:8822/LOGO/sky-sport-6.png" group-title="ALL",DE: Sky Sport 6
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/126
+#EXTINF:-1 tvg-id="ESPN.1.nl" tvg-name="NL: ESPN Sports 1 " tvg-logo="http://84.22.62.251:8822/LOGO/espn.png" group-title="ALL",NL: ESPN Sports 1 
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/253
+#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-name="NL: ESPN sports 2" tvg-logo="http://84.22.62.251:8822/LOGO/espn-2.png" group-title="ALL",NL: ESPN sports 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/254
+#EXTINF:-1 tvg-id="ESPN.3.nl" tvg-name="NL: ESPN Sports 3" tvg-logo="http://84.22.62.251:8822/LOGO/espn-3.png" group-title="ALL",NL: ESPN Sports 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/255
+#EXTINF:-1 tvg-id="Deluxe.Music.ch" tvg-name="DE: Delux Music" tvg-logo="http://84.22.62.251:8822/LOGO/deluxe-music.png" group-title="ALL",DE: Delux Music
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/356
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="DE:Toggo" tvg-logo="http://84.22.62.251:8822/LOGO/toggo-plus.png" group-title="ALL",DE:Toggo
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/445
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="DE: Super RTL" tvg-logo="http://84.22.62.251:8822/LOGO/super-rtl.png" group-title="ALL",DE: Super RTL
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/138
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="DE: Disney Channel" tvg-logo="http://84.22.62.251:8822/LOGO/disney-channel.png" group-title="ALL",DE: Disney Channel
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/633
+#EXTINF:-1 tvg-id="Nick.de" tvg-name="DE: Nickelodeon" tvg-logo="http://84.22.62.251:8822/LOGO/nickelodeon.png" group-title="ALL",DE: Nickelodeon
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/590
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: ARD" tvg-logo="http://84.22.62.251:8822/LOGO/das-erste.png" group-title="ALL",DE: ARD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/226
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF" tvg-logo="http://84.22.62.251:8822/LOGO/zdf.png" group-title="ALL",DE: ZDF
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/227
+#EXTINF:-1 tvg-id="SAT1.de" tvg-name="DE: Sat.1" tvg-logo="http://84.22.62.251:8822/LOGO/sat-1.png" group-title="ALL",DE: Sat.1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/152
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE: RTL" tvg-logo="http://84.22.62.251:8822/LOGO/rtl.png" group-title="ALL",DE: RTL
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/144
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="DE: RTL ZWEI" tvg-logo="http://84.22.62.251:8822/LOGO/rtl-zwei.png" group-title="ALL",DE: RTL ZWEI
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/145
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="DE: ProSieben" tvg-logo="http://84.22.62.251:8822/LOGO/pro-sieben.png" group-title="ALL",DE: ProSieben
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/148
+#EXTINF:-1 tvg-id="ProSiebenMAXX.de" tvg-name="DE:Prosiben MAX" tvg-logo="http://84.22.62.251:8822/LOGO/pro-sieben-maxx.png" group-title="ALL",DE:Prosiben MAX
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/674
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="DE: VOX" tvg-logo="http://84.22.62.251:8822/LOGO/vox.png" group-title="ALL",DE: VOX
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/150
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="DE: kabel eins" tvg-logo="http://84.22.62.251:8822/LOGO/kabel-eins.png" group-title="ALL",DE: kabel eins
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/146
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE: Tagesschau 24 " tvg-logo="http://84.22.62.251:8822/LOGO/tagesschau24.png" group-title="ALL",DE: Tagesschau 24 
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/335
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="DE:N24 Doku HD" tvg-logo="http://84.22.62.251:8822/LOGO/n24-doku.png" group-title="ALL",DE:N24 Doku HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/637
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DE: DMAX HD" tvg-logo="http://84.22.62.251:8822/LOGO/dmax.png" group-title="ALL",DE: DMAX HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/288
+#EXTINF:-1 tvg-id="n-tv.de" tvg-name="DE: n-tv" tvg-logo="http://84.22.62.251:8822/LOGO/ntv.png" group-title="ALL",DE: n-tv
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/151
+#EXTINF:-1 tvg-id="NITRO.de" tvg-name="DE: RTL Nitro" tvg-logo="http://84.22.62.251:8822/LOGO/rtl-nitro.png" group-title="ALL",DE: RTL Nitro
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/252
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="DE: Kabel 1 Doku" tvg-logo="http://84.22.62.251:8822/LOGO/kabel-eins-doku.png" group-title="ALL",DE: Kabel 1 Doku
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/330
+#EXTINF:-1 tvg-id="HISTORY.de" tvg-name="DE: History" tvg-logo="http://84.22.62.251:8822/LOGO/history.png" group-title="ALL",DE: History
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/169
+#EXTINF:-1 tvg-id="Discovery.de" tvg-name="DE: Discovery Channel" tvg-logo="http://84.22.62.251:8822/LOGO/discovery-channel.png" group-title="ALL",DE: Discovery Channel
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/315
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="DE: Animal Planet" tvg-logo="http://84.22.62.251:8822/LOGO/animal-planet.png" group-title="ALL",DE: Animal Planet
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/236
+#EXTINF:-1 tvg-id="NationalGeographicWILD.de" tvg-name="DE: Nat Geo Wild" tvg-logo="http://84.22.62.251:8822/LOGO/nat-geo-wild.png" group-title="ALL",DE: Nat Geo Wild
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/170
+#EXTINF:-1 tvg-id="NationalGeographic.de" tvg-name="DE: Nat Geographic HD" tvg-logo="http://84.22.62.251:8822/LOGO/national-geographic.png" group-title="ALL",DE: Nat Geographic HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/171
+#EXTINF:-1 tvg-id="KabelEinsCLASSICS.de" tvg-name="DE: Kabel Eins Classics" tvg-logo="http://84.22.62.251:8822/LOGO/kabel-eins-classics.png" group-title="ALL",DE: Kabel Eins Classics
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/662
+#EXTINF:-1 tvg-id="13THSTREET.de" tvg-name="DE: 13th Street Universal" tvg-logo="http://84.22.62.251:8822/LOGO/13th-street.png" group-title="ALL",DE: 13th Street Universal
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/159
+#EXTINF:-1 tvg-id="Sky.One.de" tvg-name="DE: Sky ONE" tvg-logo="http://84.22.62.251:8822/LOGO/sky-one.png" group-title="ALL",DE: Sky ONE
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/160
+#EXTINF:-1 tvg-id="WarnerTVSerie.de" tvg-name="Warner Serie" tvg-logo="http://84.22.62.251:8822/LOGO/warner-tv-serie.png" group-title="ALL",Warner Serie
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/167
+#EXTINF:-1 tvg-id="SyFy.de" tvg-name="DE: Syfy " tvg-logo="http://84.22.62.251:8822/LOGO/syfy.png" group-title="ALL",DE: Syfy 
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/162
+#EXTINF:-1 tvg-id="SkyCinemaAction.de" tvg-name="DE: Sky Cinema Action" tvg-logo="http://84.22.62.251:8822/LOGO/sky-cinema-action.png" group-title="ALL",DE: Sky Cinema Action
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/286
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE: Sky Cinema Classics" tvg-logo="http://84.22.62.251:8822/LOGO/sky-cinema-classics.png" group-title="ALL",DE: Sky Cinema Classics
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/173
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.de" tvg-name="DE:Sky Cinema Premieren" tvg-logo="http://84.22.62.251:8822/LOGO/sky-cinema-premiere.png" group-title="ALL",DE:Sky Cinema Premieren
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/614
+#EXTINF:-1 tvg-id="Motorvision.TV.ch" tvg-name="DE: Motorvision" tvg-logo="http://84.22.62.251:8822/LOGO/motorvision-tv.png" group-title="ALL",DE: Motorvision
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/406
+#EXTINF:-1 tvg-id="" tvg-name="AL:FermaVIP1" tvg-logo="http://84.22.62.251:8822/LOGO/bigbrother-1.png" group-title="ALL",AL:FermaVIP1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/411
+#EXTINF:-1 tvg-id="" tvg-name="AL:FermaVIP2" tvg-logo="http://84.22.62.251:8822/LOGO/bigbrother-2.png" group-title="ALL",AL:FermaVIP2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/412
+#EXTINF:-1 tvg-id="Terra.HD.al" tvg-name="AL:TerraHD" tvg-logo="http://84.22.62.251:8822/LOGO/terra-hd.png" group-title="ALL",AL:TerraHD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/456
+#EXTINF:-1 tvg-id="21.Plus.al" tvg-name="AL:21 Plus" tvg-logo="http://84.22.62.251:8822/LOGO/rtv-21-plus.png" group-title="ALL",AL:21 Plus
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/459
+#EXTINF:-1 tvg-id="" tvg-name="AL:TV Fontana" tvg-logo="http://84.22.62.251:8822/LOGO/tv-fontana.png" group-title="ALL",AL:TV Fontana
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/460
+#EXTINF:-1 tvg-id="21.Mix.al" tvg-name="AL:21 Mix" tvg-logo="http://84.22.62.251:8822/LOGO/21-mix.png" group-title="ALL",AL:21 Mix
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/462
+#EXTINF:-1 tvg-id="" tvg-name="AL:TurboChannel" tvg-logo="http://84.22.62.251:8822/LOGO/turbo-channel.png" group-title="ALL",AL:TurboChannel
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/463
+#EXTINF:-1 tvg-id="FashionTV.au" tvg-name="FashionTV" tvg-logo="http://84.22.62.251:8822/LOGO/fashion-tv.png" group-title="ALL",FashionTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/465
+#EXTINF:-1 tvg-id="" tvg-name="AL:GameTon" tvg-logo="http://185.222.138.254/logo/gametoon.png" group-title="ALL",AL:GameTon
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/466
+#EXTINF:-1 tvg-id="FilmBox.Premium.cz" tvg-name="AL:FilmBox Premium" tvg-logo="http://84.22.62.251:8822/LOGO/film-box-premium.png" group-title="ALL",AL:FilmBox Premium
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/469
+#EXTINF:-1 tvg-id="Extreme.Sports.ba" tvg-name="AL:Xtream Sport" tvg-logo="http://84.22.62.251:8822/LOGO/xtreame-sport.png" group-title="ALL",AL:Xtream Sport
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/470
+#EXTINF:-1 tvg-id="" tvg-name="AL:Fox" tvg-logo="http://84.22.62.251:8822/LOGO/fox.png" group-title="ALL",AL:Fox
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/471
+#EXTINF:-1 tvg-id="FOX.Crime.bg" tvg-name="AL:FoxCrime" tvg-logo="http://84.22.62.251:8822/LOGO/fox-crime.png" group-title="ALL",AL:FoxCrime
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/472
+#EXTINF:-1 tvg-id="Fox.Life.es" tvg-name="AL:Fox Life" tvg-logo="http://84.22.62.251:8822/LOGO/fox-life.png" group-title="ALL",AL:Fox Life
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/473
+#EXTINF:-1 tvg-id="Star.Plus.TV.al" tvg-name="AL:StarTV" tvg-logo="http://84.22.62.251:8822/LOGO/star-plus-hd.png" group-title="ALL",AL:StarTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/474
+#EXTINF:-1 tvg-id="FilmBox.Family.cz" tvg-name="AL:FilmBox Family" tvg-logo="http://84.22.62.251:8822/LOGO/film-box-family.png" group-title="ALL",AL:FilmBox Family
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/475
+#EXTINF:-1 tvg-id="Filmbox.Stars.cz" tvg-name="AL:FilmBox Stars" tvg-logo="http://84.22.62.251:8822/LOGO/film-box-stars.png" group-title="ALL",AL:FilmBox Stars
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/476
+#EXTINF:-1 tvg-id="Filmbox.Extra.bg" tvg-name="AL:FilmBox Extra" tvg-logo="http://84.22.62.251:8822/LOGO/film-box-extra.png" group-title="ALL",AL:FilmBox Extra
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/477
+#EXTINF:-1 tvg-id="Filmbox.Arthouse.cz" tvg-name="AL:FilmBox Arthous" tvg-logo="http://84.22.62.251:8822/LOGO/film-box-arthouse.png" group-title="ALL",AL:FilmBox Arthous
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/478
+#EXTINF:-1 tvg-id="Fax.News.al" tvg-name="AL:Fax News" tvg-logo="http://84.22.62.251:8822/LOGO/fax-news.png" group-title="ALL",AL:Fax News
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/480
+#EXTINF:-1 tvg-id="" tvg-name="MK:MPT2" tvg-logo="http://iptv3.kbc.al/logo2/mpt2.png" group-title="ALL",MK:MPT2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/482
+#EXTINF:-1 tvg-id="TV.Opinioni.al" tvg-name="AL:OpinionTV" tvg-logo="http://84.22.62.251:8822/LOGO/opinion-tv.png" group-title="ALL",AL:OpinionTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/483
+#EXTINF:-1 tvg-id="Balkanika.ba" tvg-name="Ballkanika" tvg-logo="	http://www.albepg.com/tvlogi/Balkanika.png" group-title="ALL",Ballkanika
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/485
+#EXTINF:-1 tvg-id="MTV.au" tvg-name="DE:MTV" tvg-logo="http://84.22.62.251:8822/LOGO/mtv.png" group-title="ALL",DE:MTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/487
+#EXTINF:-1 tvg-id="DW.Ger..cy" tvg-name="DE:DW-TV" tvg-logo="http://84.22.62.251:8822/LOGO/deutsche-welle.png" group-title="ALL",DE:DW-TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/467
+#EXTINF:-1 tvg-id="MTVHits.de" tvg-name="DE:MTV Hits" tvg-logo="http://84.22.62.251:8822/LOGO/mtv-hits.png" group-title="ALL",DE:MTV Hits
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/488
+#EXTINF:-1 tvg-id="VH1.HD.in" tvg-name="AL:Istogu Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9xMsoyrmR0-8SSy9cuqfyEDtHXNovs2DTyg&s" group-title="ALL",AL:Istogu Channels
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/489
+#EXTINF:-1 tvg-id="Euronews.au" tvg-name="Euronews" tvg-logo="http://84.22.62.251:8822/LOGO/euronews-deutsch.png" group-title="ALL",Euronews
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/491
+#EXTINF:-1 tvg-id="France.24.(franz.).de" tvg-name="FR:France24" tvg-logo="http://84.22.62.251:8822/LOGO/france-24.png" group-title="ALL",FR:France24
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/492
+#EXTINF:-1 tvg-id="TRT.World.tr" tvg-name="TR:TRT World" tvg-logo="http://185.222.138.254/logo/trtworld.png" group-title="ALL",TR:TRT World
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/493
+#EXTINF:-1 tvg-id="CineStar.TV..1.HD.(HR).ba" tvg-name="TR: Star TV" tvg-logo="http://84.22.62.251:8822/LOGO/star-tv-tr.png" group-title="ALL",TR: Star TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/183
+#EXTINF:-1 tvg-id="B92.ba" tvg-name="SR:B92" tvg-logo="http://iptv3.kbc.al/logo2/b92.png" group-title="ALL",SR:B92
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/439
+#EXTINF:-1 tvg-id="" tvg-name="DE:Positive GOLD" tvg-logo="" group-title="ALL",DE:Positive GOLD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/529
+#EXTINF:-1 tvg-id="" tvg-name="DE:Suite TV" tvg-logo="" group-title="ALL",DE:Suite TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/531
+#EXTINF:-1 tvg-id="360TuneBox.cz" tvg-name="DE:360 TuneBOX" tvg-logo="http://iptv3.kbc.al/logo2/360tunebox.png" group-title="ALL",DE:360 TuneBOX
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/532
+#EXTINF:-1 tvg-id="TRT.Türk.ch" tvg-name="TR:TRT Turk" tvg-logo="http://84.22.62.251:8822/LOGO/trt-turk.png" group-title="ALL",TR:TRT Turk
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/591
+#EXTINF:-1 tvg-id="Show.Turk.al" tvg-name="TR:ShowTurk" tvg-logo="http://84.22.62.251:8822/LOGO/show-turk.png" group-title="ALL",TR:ShowTurk
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/592
+#EXTINF:-1 tvg-id="ATV.(TR).ch" tvg-name="TR:ATV HD" tvg-logo="http://84.22.62.251:8822/LOGO/atv-tv.png" group-title="ALL",TR:ATV HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/593
+#EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="TR:Kanal 7 Turk" tvg-logo="http://84.22.62.251:8822/LOGO/kanal-7-tr.png" group-title="ALL",TR:Kanal 7 Turk
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/594
+#EXTINF:-1 tvg-id="TV.8.tr" tvg-name="TR:TV 8 HD" tvg-logo="http://84.22.62.251:8822/LOGO/tv8-tr.png" group-title="ALL",TR:TV 8 HD
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/595
+#EXTINF:-1 tvg-id="" tvg-name="TR:Dost TV" tvg-logo="http://84.22.62.251:8822/LOGO/dost-tv-tr.png" group-title="ALL",TR:Dost TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/596
+#EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="TR:Kral TV" tvg-logo="http://84.22.62.251:8822/LOGO/kral-tv.png" group-title="ALL",TR:Kral TV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/599
+#EXTINF:-1 tvg-id="AlJazeera.Arabic.net" tvg-name="TR:NTV" tvg-logo="http://iptv3.kbc.al/logo1/ntv.png" group-title="ALL",TR:NTV
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/645
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Aksion" tvg-logo="http://84.22.62.251:8822/LOGO/isp-aksion.png" group-title="ALL",AL:ISP Aksion
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/681
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Comedy" tvg-logo="http://84.22.62.251:8822/LOGO/isp-comedy.png" group-title="ALL",AL:ISP Comedy
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/682
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Dokumentar" tvg-logo="http://84.22.62.251:8822/LOGO/isp-dokumentar.png" group-title="ALL",AL:ISP Dokumentar
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/683
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Drame" tvg-logo="http://84.22.62.251:8822/LOGO/isp-drame.png" group-title="ALL",AL:ISP Drame
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/684
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Film" tvg-logo="http://84.22.62.251:8822/LOGO/isp-film.png" group-title="ALL",AL:ISP Film
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/685
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Hits" tvg-logo="http://84.22.62.251:8822/LOGO/isp-hits.png" group-title="ALL",AL:ISP Hits
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/686
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Kalamanjt" tvg-logo="http://84.22.62.251:8822/LOGO/isp-kalamajt.png" group-title="ALL",AL:ISP Kalamanjt
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/687
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Dokumentar" tvg-logo="http://84.22.62.251:8822/LOGO/isp-dokumentar.png" group-title="ALL",AL:ISP Dokumentar
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/689
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Premier" tvg-logo="http://84.22.62.251:8822/LOGO/isp-premiere.png" group-title="ALL",AL:ISP Premier
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/690
+#EXTINF:-1 tvg-id="" tvg-name="AL:ISP Thirller" tvg-logo="http://84.22.62.251:8822/LOGO/isp-thriller.png" group-title="ALL",AL:ISP Thirller
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/691
+#EXTINF:-1 tvg-id="dokusat.de" tvg-name="DE: DokuSat" tvg-logo="http://84.22.62.251:8822/LOGO/dokusat.png" group-title="ALL",DE: DokuSat
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/704
+#EXTINF:-1 tvg-id="5d767ae7b456c8cf265ce922" tvg-name="DE: Pluto Animals" tvg-logo="" group-title="ALL",DE: Pluto Animals
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/706
+#EXTINF:-1 tvg-id="608181d420fc8500075f612a" tvg-name="DE: Pluto Anime" tvg-logo="http://84.22.62.251:8822/LOGO/pluto-anime.png" group-title="ALL",DE: Pluto Anime
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/707
+#EXTINF:-1 tvg-id="5db048f9447d6c0009b8f29d" tvg-name="DE: Pluto Documentaries" tvg-logo="http://84.22.62.251:8822/LOGO/pluto-tv-documentaries.png" group-title="ALL",DE: Pluto Documentaries
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/708
+#EXTINF:-1 tvg-id="5ad9b8551b95267e225e59c1" tvg-name="DE: Pluto Explore" tvg-logo="http://84.22.62.251:8822/LOGO/pluto-tv-explore.png" group-title="ALL",DE: Pluto Explore
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/709
+#EXTINF:-1 tvg-id="5d767b1c126c65d0a307355f" tvg-name="DE: Pluto History" tvg-logo="http://84.22.62.251:8822/LOGO/pluto-tv-history.png" group-title="ALL",DE: Pluto History
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/710
+#EXTINF:-1 tvg-id="RTLplus.de" tvg-name="DE: RTL+" tvg-logo="" group-title="ALL",DE: RTL+
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/716
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe RAP" tvg-logo="" group-title="ALL",DE: Deluxe RAP
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/717
+#EXTINF:-1 tvg-id="" tvg-name="DE: MTV Latino" tvg-logo="" group-title="ALL",DE: MTV Latino
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/718
+#EXTINF:-1 tvg-id="" tvg-name="DE: NOW 90`s" tvg-logo="" group-title="ALL",DE: NOW 90`s
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/719
+#EXTINF:-1 tvg-id="630dd3b2605f140007e002f5" tvg-name="DE: Pluto Tv Western" tvg-logo="" group-title="ALL",DE: Pluto Tv Western
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/720
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pluto Tv True Crime" tvg-logo="" group-title="ALL",DE: Pluto Tv True Crime
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/721
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rakuten Tv TOP Mouvies" tvg-logo="" group-title="ALL",DE: Rakuten Tv TOP Mouvies
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/722
+#EXTINF:-1 tvg-id="DE: AXN Black" tvg-name="DE: AXN" tvg-logo="https://logo.protv.cc/piconsnew/axnblack.png" group-title="ALL",DE: AXN
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/727
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4" tvg-logo="http://logo.protv.cc/piconsnew/skyselect.png" group-title="ALL",DE: Sky Select 4
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/728
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5" tvg-logo="http://logo.protv.cc/piconsnew/skyselect.png" group-title="ALL",DE: Sky Select 5
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/729
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Tv Dreams" tvg-logo="https://i.imgur.com/3VWF3sj.png" group-title="ALL",AL: Alb Tv Dreams
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/736
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Musike Tv" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="ALL",AL: Alb Musike Tv
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/737
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zjarr Tv " tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="ALL",AL: Zjarr Tv 
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/738
+#EXTINF:-1 tvg-id="" tvg-name="Enter the Phoenix (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJCnhLyqXUSdNNHPeiTBv80KKC.jpg" group-title="",Enter the Phoenix (2004)
+http://iptv3.kbc.al:25461/movie/EshrefGllareva/wTAg28dJLU/745.avi
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 1" tvg-logo="http://84.22.62.251:8822/LOGO/sky-select-1.png" group-title="ALL",Sky Select 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/748
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 2" tvg-logo="http://84.22.62.251:8822/LOGO/sky-select-2.png" group-title="ALL",Sky Select 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/749
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 3" tvg-logo="http://84.22.62.251:8822/LOGO/sky-select-3.png" group-title="ALL",Sky Select 3
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/750
+#EXTINF:-1 tvg-id="" tvg-name="The Transporter (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ttdXwnHhmAKIzBRG9Izc7CXg84L.jpg" group-title="",The Transporter (2002)
+http://iptv3.kbc.al:25461/movie/EshrefGllareva/wTAg28dJLU/712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AL:BigBrother VIP ALB 1" tvg-logo="" group-title="ALL",AL:BigBrother VIP ALB 1
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/734
+#EXTINF:-1 tvg-id="" tvg-name="AL:BigBrother VIP ALB 2" tvg-logo="" group-title="ALL",AL:BigBrother VIP ALB 2
+http://iptv3.kbc.al:25461/EshrefGllareva/wTAg28dJLU/735
